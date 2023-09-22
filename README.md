@@ -1,0 +1,2 @@
+# pokedex
+tentativa de aprendizado
